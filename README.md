@@ -1,1 +1,1 @@
-# SQL_Homework is still in progress
+# SQL_Homework is completed
